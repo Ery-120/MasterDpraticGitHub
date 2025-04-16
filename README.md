@@ -1,2 +1,3 @@
 # MasterDpraticGitHub
-qui c'è la descrizione
+
+questa repositary servirà come lezione Git Hub prt 2 di MasterD
